@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\student_system\resources\views/admin_pages/yaz_okulu.blade.php ENDPATH**/ ?>
